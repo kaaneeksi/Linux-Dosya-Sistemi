@@ -44,3 +44,9 @@
  `/lib` (**Lib**rary) sistemdeki araçların ortak olarak kullandığı dosyaları barındıran dizindir. Bu şekilde aynı dosyaların bellekte yer işgal etmesi önleniyor. 
  
  `lib64`,`lib32`,`libx32` gibi dizinler uyumluluk için 32 ve 64 bit kütüphane dosyalarını barındırıyor.
+
+ ---
+
+ ## /usr
+
+ `/usr` dizini neredeyse bütün komut dosyalarının, kütüphanelerin ve dökümantasyonlarla beraber sistemin işleyişi için gerekli olan dosyaların tutulduğu dizindir. Aslında `lib,bin,sbin` `/usr` dizini altında çalışır

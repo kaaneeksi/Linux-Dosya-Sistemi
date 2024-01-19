@@ -1,0 +1,1 @@
+# Linux-Dosya-Sistemi-Hiyerarsisi

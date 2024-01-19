@@ -61,6 +61,8 @@
 
 `/opt` dizini harici olarak kurulan toolların dosyalarının barındırıldığı dizindir.
 
+---
+
 ## /media & /mnt
 
 `/media` ve `/mnt` dizinlerinin ikiside medya aygıtları için kullanılan dizinlerdir. 
@@ -70,5 +72,11 @@ Aralarında ki fark ise;
 `/media` dizini "USB bellek, harici disk, CD/DVD sürücüsü vb." gibi medya aygıtlarını bağlamak için kullanılırken,
 
 `/mnt` dizini ise geçici olarak disk bölümlerini bağlamak için kullanılan bir dizindir.
+
+---
+
+## /proc
+
+`/proc` (**proc**ess) dizini sistemde o anda çalışan işlemler hakkında bilgiler içeren sanal bir dosya sistemidir. 
 
  

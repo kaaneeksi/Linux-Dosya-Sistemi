@@ -79,4 +79,38 @@ Aralarında ki fark ise;
 
 `/proc` (**proc**ess) dizini sistemde o anda çalışan işlemler hakkında bilgiler içeren sanal bir dosya sistemidir. 
 
- 
+ ---
+
+ ## /tmp
+
+ `/tmp` (**temp**orary) yani geçici ifadesinin kısaltmasından ismini almıştır. Geçici olarak tutulması gereken dosyalar ve klasörler için kullanılan bir dizindir. Bu dosyalar RAM üzerinde tutulduğu için sistem yeniden başlatıldığnda silinmiş olurlar.
+
+ ---
+
+ ## /root
+
+ `/root` dizini root kullanıcısını **home** dizinidir. 
+
+ ---
+
+ ## /var
+
+ `/var` (**var**iable) yani değişken kelimesinden geliyor.Bu dizinde Log dosyaları, çeşitli veri tabanı dosyaları ve benzeri pek çok veri bu dizinin altında tutulur.
+
+ ---
+
+ ## /sys
+
+ `/sys` bu dizin bazı sistem bileşenleri ve sürücüler hakkında bilgiler içeren bir dizindir.
+
+ ---
+
+ ## /srv
+
+ `/srv` (**s**e**rv**ice) sunucunun sunduğu çeşitli hizmetlerin (FTP ve Nginx gibi) tutuluduğu bir dizindir.
+
+ ---
+
+ ## /run
+
+ `/run` Sistem başlangıcından itibaren, sistem kaynaklarının nasıl kullanıldığına dair çeşitli bilgileri tutan bir dizindir. Bu veriler, sistemin o anda çalışan işlemlerinin ihtiyaçlarını karşılamak için gerekli olan türde geçici verilerdir.

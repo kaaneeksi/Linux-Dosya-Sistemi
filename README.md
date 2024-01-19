@@ -49,4 +49,26 @@
 
  ## /usr
 
- `/usr` dizini neredeyse bütün komut dosyalarının, kütüphanelerin ve dökümantasyonlarla beraber sistemin işleyişi için gerekli olan dosyaların tutulduğu dizindir. Aslında `lib,bin,sbin` `/usr` dizini altında çalışır
+ `/usr` dizini neredeyse bütün komut dosyalarının, kütüphanelerin ve dökümantasyonlarla beraber sistemin işleyişi için gerekli olan dosyaların tutulduğu dizindir. 
+ 
+ Aslında `lib,bin,sbin` `/usr` dizini altında çalışır
+
+ ![usr](https://github.com/kaaneeksi/Linux-Dosya-Sistemi/blob/main/usr-dizini.png?raw=true)
+
+ ---
+
+## /opt
+
+`/opt` dizini harici olarak kurulan toolların dosyalarının barındırıldığı dizindir.
+
+## /media & /mnt
+
+`/media` ve `/mnt` dizinlerinin ikiside medya aygıtları için kullanılan dizinlerdir. 
+
+Aralarında ki fark ise; 
+
+`/media` dizini "USB bellek, harici disk, CD/DVD sürücüsü vb." gibi medya aygıtlarını bağlamak için kullanılırken,
+
+`/mnt` dizini ise geçici olarak disk bölümlerini bağlamak için kullanılan bir dizindir.
+
+ 

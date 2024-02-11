@@ -53,7 +53,7 @@
  
  Aslında `lib,bin,sbin` `/usr` dizini altında çalışır
 
- ![usr](https://github.com/kaaneeksi/Linux-Dosya-Sistemi/blob/main/usr-dizini.png?raw=true)
+ ![usr](https://github.com/kaaneeksi/Linux-Dosya-Sistemi/blob/main/G%C3%B6rseller/usr-dizini.png?raw=true)
 
  ---
 

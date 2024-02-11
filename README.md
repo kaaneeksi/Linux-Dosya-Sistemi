@@ -1,6 +1,6 @@
 # Linux Dosya Sistemi
 
-![linux-dosya-sistemi](https://github.com/kaaneeksi/Linux-Dosya-Sistemi-Hiyerarsisi/blob/main/linux-dosya-sistemi.png?raw=true)
+![linux-dosya-sistemi](https://github.com/kaaneeksi/Linux-Dosya-Sistemi/blob/main/G%C3%B6rseller/linux-dosya-sistemi.png?raw=true)
 
 ## / | Root | Kök Dizin
 
